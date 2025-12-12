@@ -611,4 +611,3 @@ with footer_cols[1]:
     st.caption("⚠️ 计算结果需现场验证")
 with footer_cols[2]:
     st.caption(f"🕒 系统时间: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-  Commit message: 首次提交：完整的土壤流失测算工具
